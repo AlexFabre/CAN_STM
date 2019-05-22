@@ -1,2 +1,3 @@
 # CAN_STM
-Implementation of CAN protocol manually on STM32
+
+CAN emitter and receiver on Nucleo STM32F446
